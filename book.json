@@ -1,0 +1,6 @@
+{
+    "edition": "admin",
+    "styles": {
+        "website": "styles/style.css"
+    }
+}
