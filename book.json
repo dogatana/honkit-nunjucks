@@ -1,5 +1,6 @@
 {
     "edition": "admin",
+    "admin": true,
     "styles": {
         "website": "styles/style.css"
     }
